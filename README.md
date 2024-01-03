@@ -34,4 +34,5 @@ Para rodar esse projeto, você vai precisar definir as seguintes variáveis de a
     pip install -r requirements.txt
     python3 main.py
 ```
-    
+
+<h3>OBS: Testes realizados da versão 4.1.0 até a 4.17.0</h3>
